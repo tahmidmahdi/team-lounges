@@ -1,0 +1,21 @@
+.cart img{
+    height: 100px;
+    width: 100px;
+
+}
+.cart{
+    height: 300px;
+    width: 250px;
+    /* border: 2px solid black; */
+    background-color:  lightsalmon;
+    color: white;
+    text-align: center;
+    margin: 26px;
+    padding: 20px; 
+    float: left;
+    border-radius: 20px;
+    
+}
+.main-cart{
+    background-color: black;
+}

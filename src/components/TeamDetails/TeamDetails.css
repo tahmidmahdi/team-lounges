@@ -1,0 +1,23 @@
+.team-banner{
+    text-align: center;
+}
+.team-box{
+  
+    height: 950px;
+    background-color: rgb(11, 11, 61);
+    /* background-color: #fb3529; */
+    margin-top: 10px;
+    color: white;
+
+}
+
+.team-details{
+    background-color: #eb2c2c;
+    height: 250px;
+    width: 800px;
+    margin-left: 160px;
+    border-radius: 20px;
+    padding: 20px;
+    color: white;
+    
+}
