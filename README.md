@@ -1,11 +1,11 @@
 # Team Lounges
-This Project is about a site which tells us about the history of Spanish League named LaLig
+This Project is about a site which tells us about the history of Spanish League named LaLiga
 
 <!-- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). -->
 
-## Available Scripts
+## About This Project
 
-In the project directory, you can run:
+In this project we have used an api named Sports DB API. [Link](https://www.thesportsdb.com/api.php) click to go to the api site.
 
 ### `npm start`
 
