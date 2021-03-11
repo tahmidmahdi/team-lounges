@@ -7,7 +7,7 @@ import {   faFacebookSquare, faTwitterSquare, faYoutubeSquare } from '@fortaweso
 import male from "../../images/Rectangle 28.png"
 import female from "../../images/female.png"
 import "./TeamData.css"
-import SocialMediaError from '../SocialMeadiaError/SocialMediaError';
+
 
 
 

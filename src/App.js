@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import Header from './components/Header/Header';
 import Home from './components/Home/Home';
@@ -10,7 +10,7 @@ import {
 } from "react-router-dom";
 import NotFound from './components/NotFound/NotFound';
 import TeamDetails from './components/TeamDetails/TeamDetails';
-import SocialMediaError from './components/SocialMeadiaError/SocialMediaError';
+// import SocialMediaError from './components/SocialMeadiaError/SocialMediaError';
 
 function App() {
   return (
@@ -25,9 +25,9 @@ function App() {
           <Route path="/team/:idTeam">
             <TeamDetails></TeamDetails>
           </Route>
-          <Route path="/social">
+          {/* <Route path="/social">
             <SocialMediaError></SocialMediaError>
-          </Route>
+          </Route> */}
           <Route path="*">
             <NotFound></NotFound>
           </Route>

@@ -12,6 +12,14 @@
     color: white;
 
 }
+/* .bannerLogo{
+    position: absolute;
+    top: 10%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+    height: 80px;
+    width: 80px;
+} */
 
 .team-details{
     background-color: #eb2c2c;

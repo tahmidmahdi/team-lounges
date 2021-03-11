@@ -32,6 +32,7 @@ const TeamDetails = () => {
                 {
                     (strTeamBanner === null) && <img className="img-fluid"  style={{height:'200px'}} src={strTeamBadge} alt="" />
                 }
+                {/* <img className="bannerLogo" src={strTeamBadge} alt=""/> */}
             </div>
 
 
