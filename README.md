@@ -13,28 +13,19 @@ In our site we have tried to show around 50 clubs names with their history also 
 
 ### `React JS`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Full Project is Based on ReactJS. We have used many components to Build the site
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-### `npm test`
+### `Bootstrap`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+We have Used BootStrap to design our site also to make it responsive.
 
-### `npm run build`
+### `HTML & CSS`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
+HTML & CSS is a core part for building a site. I have also used HTML & CSS.
+### `NETLIFY LIVE SITE LINK`
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
