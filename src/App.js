@@ -9,7 +9,6 @@ import {
 } from "react-router-dom";
 import NotFound from './components/NotFound/NotFound';
 import TeamDetails from './components/TeamDetails/TeamDetails';
-// import SocialMediaError from './components/SocialMeadiaError/SocialMediaError';
 
 function App() {
   return (
