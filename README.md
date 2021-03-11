@@ -5,9 +5,13 @@ This Project is about a site which tells us about the history of Spanish League 
 
 ## About This Project
 
-In this project we have used an api named Sports DB API. [Link](https://www.thesportsdb.com/api.php) click to go to the api site.
+In this project we have used an api named Sports DB API. [Link](https://www.thesportsdb.com/api.php) ---click to go to the api site.
+This is site serves you to gain knowledge about Spanish Club History, when it began its journey also the says is it for male or female.
+In our site we have tried to show around 50 clubs names with their history also their BADGES with corresponding BANNERS.
 
-### `npm start`
+##Technologies Used for Building the site
+
+### `React JS`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
