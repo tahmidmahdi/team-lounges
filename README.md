@@ -28,7 +28,6 @@ HTML & CSS is a core part for building a site. I have also used HTML & CSS.
 ### `NETLIFY LIVE SITE LINK`
 [LiveSite](https://teamlounges.netlify.app/) --click to view Live Site
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
 
 
