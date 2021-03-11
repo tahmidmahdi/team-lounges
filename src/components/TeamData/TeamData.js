@@ -17,10 +17,10 @@ const TeamData = (props) => {
     console.log(strFacebook);
     return (
 
-        <div>
+        <div className="team-data">
             <div className="team-details d-flex justify-content-between">
 
-                <div>
+                <div className="club-details">
                     <h2>{strTeam}</h2>
                     <h6><FontAwesomeIcon icon={faMapMarkerAlt} /> Founded: {intFormedYear}</h6>
                     <h6><FontAwesomeIcon icon={faFlag} /> Country: {strCountry}</h6>
@@ -53,7 +53,6 @@ const TeamData = (props) => {
                 
                      <a href={`http://${strYoutube}`} target="_blank"> <FontAwesomeIcon  icon={faYoutubeSquare } size="3x"  /> </a> 
                
-
                 
             </div>
 

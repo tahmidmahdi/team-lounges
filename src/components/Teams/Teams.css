@@ -19,3 +19,14 @@
 .main-cart{
     background-color: black;
 }
+@media screen and (max-width: 600px) {
+    .cart{
+        float:inline;
+        padding: auto;
+       
+    }
+ 
+
+
+
+}
