@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Team Lounges
+This Project is about a site which tells us about the history of Spanish League named LaLig
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<!-- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). -->
 
 ## Available Scripts
 

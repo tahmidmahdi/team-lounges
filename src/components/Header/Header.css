@@ -2,3 +2,17 @@
     height:600px;
     width: 1600px;
 }
+.header h1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-weight: 700;
+}
+@media only screen and (max-width: 600px) {
+    .header h1 {
+      text-align: center;
+      width: 100%;
+    }
+  }
