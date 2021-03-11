@@ -6,17 +6,16 @@ This Project is about a site which tells us about the history of Spanish League 
 ## About This Project
 
 In this project we have used an api named Sports DB API. [Link](https://www.thesportsdb.com/api.php) ---click to go to the api site.
-This is site serves you to gain knowledge about Spanish Club History, when it began its journey also the says is it for male or female.
+This site serves you to gain knowledge about Spanish Club History, when it began its journey also it says is it for male or female.
 In our site we have tried to show around 50 clubs names with their history also their BADGES with corresponding BANNERS. For Routing Error I also have added a 404 animation. A moving Train with 404 error message.
 
 ##Technologies Used for Building the site
 
 ### `React JS`
 
-Full Project is Based on ReactJS. We have used many components to Build the site
+Full Project is Based on ReactJS. We have used many components to Build the site.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+
 
 ### `Bootstrap`
 
