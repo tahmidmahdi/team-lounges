@@ -45,13 +45,13 @@ const TeamData = (props) => {
 
             <div style={{ textAlign: 'center'}}>
                 
-                     <a href={`http://${strFacebook}`} target="_blank"> <FontAwesomeIcon  icon={faFacebookSquare } size="3x"  /> </a> 
+                     <a href={`http://${strFacebook}`} target="_blank" rel="noreferrer"> <FontAwesomeIcon  icon={faFacebookSquare } size="3x"  /> </a> 
                 
                 
-                     <a href={`http://${strTwitter}`} target="_blank"> <FontAwesomeIcon  icon={faTwitterSquare } size="3x"  /> </a> 
+                     <a href={`http://${strTwitter}`} target="_blank" rel="noreferrer"> <FontAwesomeIcon  icon={faTwitterSquare } size="3x"  /> </a> 
                 
                 
-                     <a href={`http://${strYoutube}`} target="_blank"> <FontAwesomeIcon  icon={faYoutubeSquare } size="3x"  /> </a> 
+                     <a href={`http://${strYoutube}`} target="_blank" rel="noreferrer"> <FontAwesomeIcon  icon={faYoutubeSquare } size="3x"  /> </a> 
                
                 
             </div>

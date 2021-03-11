@@ -1,12 +1,12 @@
 import React from 'react';
 import './Teams.css'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faCoffee, faChevronRight } from '@fortawesome/free-solid-svg-icons'
+import {  faChevronRight } from '@fortawesome/free-solid-svg-icons'
 import { Link } from 'react-router-dom';
 
 
 const Teams = (props) => {
-    const { strAlternate, strTeam, strSport, strTeamBadge, idTeam, strGender } = props.team;
+    const { strTeam, strSport, strTeamBadge, idTeam } = props.team;
 
     // console.log(idTeam)
 

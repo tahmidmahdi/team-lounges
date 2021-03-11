@@ -6,7 +6,9 @@ const Header = () => {
     return (
         <div className="header">
             <img className="img-fluid" src={banner} alt=""/>
-            <h1>TEAM LOUNGES</h1>
+            <h1>TEAM LOUNGES
+                
+            </h1>
         </div>
     );
 };
