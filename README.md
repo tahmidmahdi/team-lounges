@@ -26,7 +26,7 @@ We have Used BootStrap to design our site also to make it responsive.
 
 HTML & CSS is a core part for building a site. I have also used HTML & CSS.
 ### `NETLIFY LIVE SITE LINK`
-[Link](https://teamlounges.netlify.app/) --click to view Live Site
+[LiveSite](https://teamlounges.netlify.app/) --click to view Live Site
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
